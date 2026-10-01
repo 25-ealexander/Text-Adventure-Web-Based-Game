@@ -1,0 +1,18 @@
+#gridBox {
+    display: grid;
+    height: 800px;
+    border: 5px solid red;
+    grid-template-rows: auto 10%;
+}
+
+#output {
+    font-size: 20px;
+    overflow-y: scroll;
+    background-color: blanchedalmond;
+    border: inherit
+}
+
+#cli {
+    font-size: 30px;
+    border: inherit
+}
